@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+preprocessing/**.png
+preprocessing/**.jpg
+preprocessing/**.jpeg
+**/**.joblib
